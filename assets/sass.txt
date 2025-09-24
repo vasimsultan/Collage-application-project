@@ -1,0 +1,1 @@
+sass --watch "C:\Users\VS\Desktop\college\academic\assets\scss\main.scss":"C:\Users\VS\Desktop\college\academic\assets\scss\main.scss"
